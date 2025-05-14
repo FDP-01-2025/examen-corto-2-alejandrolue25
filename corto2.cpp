@@ -12,7 +12,7 @@ int main()
     // Verficación si el usuario tiene mas de 16 años, puede continuar, caso contrario, finaliza el programa.
     if (edad >= 16)
     {
-        // Menú de tipo de persona
+        // Menú de tipo de categoria
         cout << "+------------------------+" << endl;
         cout << "(1) Estudiante" << endl;
         cout << "(2) Profesional" << endl;
